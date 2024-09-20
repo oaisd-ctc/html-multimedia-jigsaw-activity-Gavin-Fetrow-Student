@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(20, 20, 20);
+    color: rgba(255, 255, 255, 0.658);
+    text-align: center;
+}
+
+video {
+    box-align: center;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.658);
+    border-width: 1px 1px;
+}
